@@ -1,1 +1,1 @@
-This project is the local store for the bikes for humanity charity website.  Site was active from early 2000's - around 2014 when it was replaced by the [Bicycles-for-Change](https://github.com/ajcryan/Bicycles-for-Change) website, which itself was then decommissioned in 2019.\n
+Bare pages - site was replaced by [Bicycles-for-Change](https://github.com/ajcryan/Bicycles-for-Change) website, which itself was then decommissioned in 2019.
